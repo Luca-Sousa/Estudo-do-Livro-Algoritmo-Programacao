@@ -1,6 +1,5 @@
 programa
-{
-	
+{	
 	funcao inicio()
 	{
 		inteiro num1, num2, maior
