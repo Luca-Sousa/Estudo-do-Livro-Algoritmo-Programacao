@@ -8,7 +8,8 @@
 ***
 
 ### Questão 2:
-    Faça um algoritmo que leia um número inteiro e diga se este é positivo, negativo ou zero. Utilize a sequência de comandos se encadeados.
+    Faça um algoritmo que leia um número inteiro e diga se este é positivo, negativo ou zero. 
+    Utilize a sequência de comandos se encadeados.
  
 ### Resolução: [Clique Aqui](https://github.com/Luca-Sousa/Estudo-do-Livro-Algoritmo-Programacao/blob/main/Capitulo-03/Exercicio-Capitulo-2.c)
 
